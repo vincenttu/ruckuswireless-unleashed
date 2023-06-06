@@ -23,3 +23,5 @@ exclude_patterns = []
 
 html_theme = 'default'
 html_static_path = ['_static']
+html_favicon = '_static/images/favicon.ico'
+html_logo = '_static/images/ruckus-unleashed-logo.png'
