@@ -1,20 +1,14 @@
-.. Ruckus Wireless Unleashed documentation master file, created by
-   sphinx-quickstart on Mon Jun  5 20:14:43 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Everything about Ruckus Wireless Unleashed
+==========================================
 
-Welcome to Ruckus Wireless Unleashed's documentation!
-=====================================================
+.. note::
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   This is a community driven document about Unleashed Wi-Fi system by Ruckus Wireless. For official product information and guides, please visit http://www.ruckusnetworks.com/ .
 
+About this project
+------------------
 
+This is a community driven documentation project. You are welcomed to share your unique way in using the system so all the readers can get inspired. If you have questions to ask or want to have interactive discussions with the other users, the `Ruckus Unleashed community`_ is the right place to visit. Product information from Ruckus Wireless or other companies was gathered from public records for reference purposes. Please visit the respective sources for the latest updates.
+This document was designed for the community. Contributions and comments are welcomed through GitHub. 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. _Ruckus Unleashed community: https://community.ruckuswireless.com/t5/Unleashed/bd-p/unleashed
